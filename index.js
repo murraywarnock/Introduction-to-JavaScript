@@ -150,7 +150,7 @@ function game(user, computer){
         if (user === computer) {
           return "its a a tie";
         } else if ( user === "rock" and computer === "scissors" {
-          
+          return;
         }
       }
        
