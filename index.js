@@ -136,7 +136,24 @@ Use the game function below to do the following:
 
 function game(user, computer){
     /*add your code here*/
-}
+    let computer = Math.random() ;
+      if computer <= 0.34 {
+        computer = "rock"
+      } else if (computer <= 0.67) {
+        computer = "rock"; 
+      } else if (computer > .67) {
+        computer = "scissors"; 
+
+      }
+
+      function game(user, computer) {
+        if (user === computer) {
+          return "its a a tie";
+        } else if ( user === "rock" and computer === "scissors" {
+          
+        }
+      }
+       
   
   
 
