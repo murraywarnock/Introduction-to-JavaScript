@@ -300,7 +300,6 @@ Using the vowelCounter function below do the following:
   HINT - try looking up the .includes() method
 */
 
-
 function vowelCounter(/*add your code here*/) {
     /*add your code here*/
 }
